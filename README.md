@@ -61,33 +61,33 @@
 
 - 点击屏幕显示全部指令
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220427224337776.png" style="zoom:50%;" /> 
+  ![](/image/image-20220427224337776.png")
 
   再次点击返回上级界面
 
 - 启动状态界面
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220427224448546.png" style="zoom:50%;" /> 
+  ![](/image/image-20220427224448546.png")
 
 - 说不同的指令来实现不同功能
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220427225119531.png" style="zoom:50%;" /> 
+  ![](/image/image-20220427225119531.png")
 
 - 播放音乐
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220427230839476.png" style="zoom:50%;" /> 
+  ![](/image/image-20220427230839476.png")
 
 - 打开记事本
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220428111813282.png" alt="image-20220428111813282" style="zoom:50%;" /> 
+  ![](/image/image-20220428111813282.png")
 
 - 打开计算器
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220428112308057.png" alt="image-20220428112308057" style="zoom:50%;" /> 
+  ![](/image/image-20220428112308057.png")
 
 - 打开必应
 
-  <img src="D:\文件\前端\项目\语音交互系统\voice\program\image\image-20220428112134021.png" alt="image-20220428112134021" style="zoom:50%;" /> 
+  ![](/image/image-20220428112134021.png")
 
 ## 5.项目结构
 
