@@ -55,7 +55,7 @@
 
 - 说 “hello” 唤醒语音助手
 
-  <img src="../image/image-20220427224353932.png" style="zoom:50%;" /> 
+  <img src="../image/image-20220427224353932.png"  /> 
 
 - 点击屏幕显示全部指令
 
